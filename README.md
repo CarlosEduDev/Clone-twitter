@@ -8,7 +8,7 @@ Este projeto foi feito com o intuito de aprimorar minhas habilidades, aprender n
 
 ## Dependências
 - Phosphor-react - É uma lib de icons de fácil uso
-- React-router-dom
+- React-router-dom - Para adicionar funcionalidades ao projeto
 
 Caso queiram clonar o repositório, ao iniciar o projeto digite no terminal: <br>
 `npm run dev`
